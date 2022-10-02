@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @coelho-anon
-- 👀 I’m interested in web e game develope
+- 👀 I’m interested in web e game development
 - 🌱 I’m currently learning nodeJS
 - 💞️ I’m looking to collaborate on any IT job
 
